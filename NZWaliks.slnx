@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NZWaliks.API/NZWaliks.API.csproj" />
+  <Project Path="NZWaliks.Application/NZWaliks.Application.csproj" />
+  <Project Path="NZWaliks.Domain/NZWaliks.Domain.csproj" />
+  <Project Path="NZWaliks.Infrastructure/NZWaliks.Infrastructure.csproj" />
+</Solution>
